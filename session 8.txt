@@ -1,0 +1,19 @@
+                  INHERITANCE                                                 COMPOSITION
+ Inheritance allows the app to do the coupling between                   Composition is the act of combining parts or elements 
+ the parent-child component and reuse properties such                     to form a whole.
+ as state values and function in its child components.
+
+
+
+
+Composition and inheritance are the approaches to use multiple components together in React.
+This helps in code reuse. React recommend using composition instead of inheritance as much as possible and inheritance should be used in very specific cases only.
+
+
+
+When we update the Celsius input or the Fahrenheit input it reflect the converted temperature and vice versa. is called lifting state up.
+
+
+ In React the onClick handler allows you to call a function and perform an action when an element is clicked. 
+ Call a Function After Clicking a Button.
+
